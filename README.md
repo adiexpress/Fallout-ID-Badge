@@ -7,8 +7,8 @@ PCB ID Badge for Fallout 2026
 ## SCHEMATIC
 <img width="787" height="552" alt="Screenshot 2026-07-02 at 9 08 35 PM" src="https://github.com/user-attachments/assets/ed5016f6-56aa-4399-89e8-fa705f16dc19" />
 
-Cool PCB Keychain/Wallet Design thing
-
+<br>
+## Cool PCB Keychain/Wallet Design thing
 
 <img width="1110" height="635" alt="Screenshot 2026-07-02 at 8 07 23 PM" src="https://github.com/user-attachments/assets/b9e34f42-6ae6-40e1-bba2-97c61463893b" />
 

@@ -1,10 +1,13 @@
 /># Fallout-ID-Badge
 PCB ID Badge for Fallout 2026
 ## 3D
+<br>
 <img width="1199" height="463" alt="Screenshot 2026-07-02 at 9 09 06 PM" src="https://github.com/user-attachments/assets/5d08753e-3c2b-4c67-965d-0dcb275e8be5" />
 ## PCB
+<br>
 <img width="1710" height="942" alt="Screenshot 2026-07-02 at 9 07 56 PM" src="https://github.com/user-attachments/assets/c91636ab-5c01-4c49-9456-b3635c3c6ce0" />
 ## SCHEMATIC
+<br>
 <img width="787" height="552" alt="Screenshot 2026-07-02 at 9 08 35 PM" src="https://github.com/user-attachments/assets/ed5016f6-56aa-4399-89e8-fa705f16dc19" />
 
 <br>

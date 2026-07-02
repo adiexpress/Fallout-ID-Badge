@@ -30,3 +30,12 @@ And for the details, I tried my best to replicate the sharp edges and curves of 
 
 I really liked making this small project and I will definetly keep this PCB as memoria for Fallout 2026
 
+## BOM
+
+| Designator | Comment               | Footprint          | Matched Part Detail     | Qty | Source | |
+| ---------- | --------------------- | ------------------ | ----------------------- | --- | ------ | |
+| LED1, LED2 | KT-0603W WHITE        | LED0603-R-RD-WHITE | C2290                   | 2   | JLCPCB | |
+| R1, R2     | 470Ω resistor         | R0805              | C17710 (0805W8F4700T5E) | 2   | JLCPCB | |
+| BT1        | CR2032 Battery Holder | CR2032-SMD         | JLC SMT CR2032 Holder   | 1   | JLCPCB | |
+
+

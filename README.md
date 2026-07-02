@@ -1,5 +1,11 @@
-# Fallout-ID-Badge
+<img width="660" height="464" alt="pcb veneno" src="https://github.com/user-attachments/assets/0dd5e23b-c095-469e-89c3-08161ddfe4b7" /># Fallout-ID-Badge
 PCB ID Badge for Fallout 2026
+
+<img width="1199" height="463" alt="Screenshot 2026-07-02 at 9 09 06 PM" src="https://github.com/user-attachments/assets/5d08753e-3c2b-4c67-965d-0dcb275e8be5" />
+
+<img width="1710" height="942" alt="Screenshot 2026-07-02 at 9 07 56 PM" src="https://github.com/user-attachments/assets/c91636ab-5c01-4c49-9456-b3635c3c6ce0" />
+
+<img width="787" height="552" alt="Screenshot 2026-07-02 at 9 08 35 PM" src="https://github.com/user-attachments/assets/ed5016f6-56aa-4399-89e8-fa705f16dc19" />
 
 Cool PCB Keychain/Wallet Design thing
 
@@ -19,8 +25,6 @@ To create the border, I traced out a side-by-side picture of a sketch I found on
 <img width="8000" height="5624" alt="Ad Car" src="https://github.com/user-attachments/assets/645e232b-2dd0-4810-8371-6b6f1f53a8eb" />
 
 And for the details, I tried my best to replicate the sharp edges and curves of the car and I think I did a pretty decent job
-![Uploading pcb veneno.jpeg…]()
-
 
 I really liked making this small project and I will definetly keep this PCB as memoria for Fallout 2026
 

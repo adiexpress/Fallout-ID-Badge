@@ -19,5 +19,8 @@ To create the border, I traced out a side-by-side picture of a sketch I found on
 <img width="8000" height="5624" alt="Ad Car" src="https://github.com/user-attachments/assets/645e232b-2dd0-4810-8371-6b6f1f53a8eb" />
 
 And for the details, I tried my best to replicate the sharp edges and curves of the car and I think I did a pretty decent job
+![Uploading pcb veneno.jpeg…]()
+
 
 I really liked making this small project and I will definetly keep this PCB as memoria for Fallout 2026
+
